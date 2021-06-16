@@ -1,3 +1,7 @@
+## Dreamception
+
+Dreamception is a e-commerce website project done during my training at Wild Code School (2nd project), on the theme of virtual reality.
+
 ## Steps
 
 1. Clone the repo from Github.
